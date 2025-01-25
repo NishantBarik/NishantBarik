@@ -8,14 +8,14 @@
 
 # 👋 About Me  
 
-🔍 **Data Enthusiast**  
+🔍 ***Data Enthusiast***  
 Passionate about leveraging data to solve problems and drive impactful decisions.  
 
-👩‍💻 **Skills**  
+👩‍💻 ***Skills***  
 - Python, SQL, Java, Data Structures & Algorithm, HTML/CSS
 - Power BI, Data Visualization, Salesforce
 
-🌟 **Currently Exploring**  
+🌟 ***Currently Exploring***  
 Machine learning, advanced data visualization, and big data tools.  
 
 Let’s connect and collaborate! 🚀  
