@@ -1,4 +1,3 @@
-<p style="font-family: 'Times New Roman',Times,serif;">
 - 👋 Hi, I’m @NishantBarik  
 - 👀 I’m interested in data analysis, visualization, and uncovering insights from data.  
 - 🌱 I’m proficient in Python, SQL, and data visualization tools like Power BI.  
@@ -6,7 +5,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nishantbarik) | [Email](mailto:bariknishant10@gmail.com)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love biking and exploring the outdoors when I’m not crunching data! 🚴‍♂️  
-</p>
+
 # 👋 About Me  
 
 🔍 ***Data Enthusiast***  
