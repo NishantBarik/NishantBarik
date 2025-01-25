@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NishantBarik  
 - 👀 I’m interested in data analysis, visualization, and uncovering insights from data.  
-- 🌱 I’m currently learning Python, SQL, and data visualization tools like Power BI.  
+- 🌱 I’m proficient in Python, SQL, and data visualization tools like Power BI.  
 - 💞️ I’m looking to collaborate on data-driven projects and open-source analytics tools.  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nishantbarik) | [Email](mailto:bariknishant10@gmail.com)  
 - 😄 Pronouns: He/Him  
@@ -12,7 +12,7 @@
 Passionate about leveraging data to solve problems and drive impactful decisions.  
 
 👩‍💻 **Skills**  
-- Python, SQL, Java, HTML/CSS, JavaScript  
+- Python, SQL, Java, Data Structures & Algorithm, HTML/CSS
 - Power BI, Data Visualization, Salesforce
 
 🌟 **Currently Exploring**  
