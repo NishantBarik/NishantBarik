@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @NishantBarik  <br>- 👀 I’m interested in data analysis, visualization, and uncovering insights from data.  <br>- 🌱 I’m proficient in Python, SQL, and data visualization tools like Power BI.  <br>- 💞️ I’m looking to collaborate on data-driven projects and open-source analytics tools.  <br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nishantbarik) | [Email](mailto:bariknishant10@gmail.com)  <br>- 😄 Pronouns: He/Him  <br>- ⚡ Fun fact: I love biking and exploring the outdoors when I’m not crunching data! 🚴‍♂️  
+- 👋 Hi, I’m @NishantBarik✨ <br>- 👀 I’m interested in data analysis, visualization, and uncovering insights from data.  <br>- 🌱 I’m proficient in Python, SQL, and data visualization tools like Power BI.  <br>- 💞️ I’m looking to collaborate on data-driven projects and open-source analytics tools.  <br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nishantbarik) | [Email](mailto:bariknishant10@gmail.com)  <br>- 😄 Pronouns: He/Him  <br>- ⚡ Fun fact: I love biking and exploring the outdoors when I’m not crunching data! 🚴‍♂️  
 
 
 ## 🌐 Socials:
@@ -12,8 +12,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=NishantBarik&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantBarik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NishantBarik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NishantBarik&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=NishantBarik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
