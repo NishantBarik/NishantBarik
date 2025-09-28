@@ -1,34 +1,82 @@
 # Hi, I’m Nishant ✨
-- ❄️ Computer Science and Engineering Student at SOA University,ITER.
-- 👀 I’m interested in data analysis, visualization, and uncovering insights from data.  <br>
-- 🌱 I’m proficient in Python, SQL, and data visualization tools like Power BI.  <br>
-- 💞️ I’m looking to collaborate on data-driven projects and open-source analytics tools.  <br>
-- 😄 Pronouns: He/Him  <br>
-- ⚡ Fun fact: I love biking and exploring the outdoors when I’m not crunching data! 🚴‍♂️  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=26&duration=4000&pause=1000&color=F7F7F7,FEC260,FF6B6B,6BCB77,4D96FF&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Python+%7C+Power+BI;Passionate+about+Data+Visualization;Always+Learning+New+Tech!" />
+</p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishantt.03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishantbarik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bariknishant10@gmail.com) 
 
-# Tech Stack 🧑‍💻:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NishantBarik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NishantBarik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantBarik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=NishantBarik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 👨‍💻 About Me
+- 🎓 Computer Science & Engineering student at **SOA University, ITER**  
+- 📊 Passionate about **data analysis, visualization, and uncovering insights**  
+- 🐍 Proficient in **Python, SQL, Power BI, and data wrangling libraries**  
+- 💡 Interested in **data-driven projects** and **open-source analytics tools**  
+- ⚡ Fun fact: When I’m not crunching data, I’m biking 🚴‍♂️ and exploring the outdoors!  
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=NishantBarik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+<p align="center">
+  <a href="https://instagram.com/nishantt.03"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nishantbarik"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bariknishant10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-Let’s connect and collaborate! 🚀  
- 
 
-<!---
-NishantBarik/NishantBarik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech Stack 🐳  
+**Languages**  
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+**Data & Analytics**  
+<p align="center">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
+</p>
+
+**Web & Tools**  
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+**Other Tools**  
+<p align="center">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+</p>
+
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NishantBarik&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NishantBarik&theme=radical&hide_border=false" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantBarik&theme=radical&hide_border=false&layout=compact" height="180"/>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NishantBarik&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+
+## 🎓 Certifications & Badges
+- Microsoft Power BI SmartInternz Internship 
+- *SQL, Java, Python* Hackerrank Certifications 
+- *Leetcode , Codechef* Badges
+
+
+⭐ **Let’s connect, collaborate, and grow together!**
