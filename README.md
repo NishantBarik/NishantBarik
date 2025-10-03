@@ -23,7 +23,7 @@
 
 
 ## Tech Stack 🐳  
-## 🛠️ Tech Stack  
+ 
 
 **Languages**  
 <p align="center">
